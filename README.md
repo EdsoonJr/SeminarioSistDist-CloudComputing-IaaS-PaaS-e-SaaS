@@ -14,11 +14,12 @@
 
 ## Cronograma:
 <a href="https://imgur.com/6ptmE7d"><img src="https://i.imgur.com/6ptmE7d.jpeg" title="source: imgur.com" width="850px"  height="200px" /></a>
-
+<br>
 <br>
 
 ## Apresentação em Slides:
 <a href="https://imgur.com/WOetTdN"><img src="https://i.imgur.com/WOetTdN.png" title="source: imgur.com" width="400px"  height="250px" /></a>
+<br>
 <br>
 
 ## Referências Bibliográficas:
